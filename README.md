@@ -131,23 +131,6 @@ print(f"XGBoost AUC: {auc_xgb:.4f}")
   - `numpy`
   - `matplotlib`
 
-### Steps:
-
-   ```
-
-1. **Run the Notebook:**
-   - Open the `Project.ipynb` file in Jupyter Notebook or any compatible IDE.
-   - Ensure the dataset `healthcare-dataset-stroke-data.csv` is placed in the correct directory.
-
----
-
-## Key Files
-- **`Project.ipynb`:** Main notebook containing the code for:
-  - Data preprocessing
-  - Model training (XGBoost, Random Forest, SVM)
-  - Hyperparameter tuning and evaluation
-- **Dataset:**  
-  - Place the dataset file `healthcare-dataset-stroke-data.csv` in the root directory.
 
 ---
 

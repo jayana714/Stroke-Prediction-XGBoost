@@ -38,7 +38,7 @@ The dataset contains the following features:
 ### 3. **SVM**
 - Classifies data by finding the best hyperplane separating the classes.
 - Linear kernel was used for simplicity.
-- 
+
 ## Results
 | Model            | AUC Score |
 |-------------------|-----------|
